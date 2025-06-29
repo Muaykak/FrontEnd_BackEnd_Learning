@@ -10,6 +10,14 @@ This repo used for learning basics of FrontEnd and BackEnd development
 4. Sign up codesandbox.io - learn how to use the codeblock.io to play with html
     https://ddvj6r.csb.app/
 
+## Useful websites for lerning
+
+w3school
+
+mozilla https://developer.mozilla.org/en-US/docs/Learn_web_development
+
+codecamp
+
 ## HTML
 
 html form  https://www.w3schools.com/html/html_form_input_types.asp
