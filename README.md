@@ -12,11 +12,8 @@ This repo used for learning basics of FrontEnd and BackEnd development
 
 ## HTML
 
-html form
-- https://www.w3schools.com/html/html_form_input_types.asp
-img and scaling
-- https://stackoverflow.com/questions/1347675/html-img-scaling
-text formating
-- https://www.w3schools.com/html/html_formatting.asp
-html link hyperlink
-- https://www.w3schools.com/html/html_links.asp
+html form  https://www.w3schools.com/html/html_form_input_types.asp
+img and scaling https://stackoverflow.com/questions/1347675/html-img-scaling
+text formating https://www.w3schools.com/html/html_formatting.asp
+html link hyperlink https://www.w3schools.com/html/html_links.asp
+html TABLE https://www.w3schools.com/html/html_tables.asp
