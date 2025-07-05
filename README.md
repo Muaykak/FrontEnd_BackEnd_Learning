@@ -37,4 +37,6 @@ https://www.w3schools.com/html/html5_semantic_elements.asp
 html style
 https://www.w3schools.com/html/html_styles.asp
 
+html color code
+https://htmlcolorcodes.com/
 
